@@ -1,3 +1,5 @@
+# move all occurence of given value to the end of list.
+
 #include <vector>
 
 using namespace std;
